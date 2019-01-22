@@ -124,19 +124,19 @@ TEMPFILE2=temp/temp2.txt
 
 
 
-# Checking the internet connection:
-# =========================================================
-loginfo ""
-loginfo "${BOL}${GRE}==> ${BOL}${GRA}Checking if the computer is connected to the internet:${END}"
+# # Checking the internet connection:
+# # =========================================================
+# loginfo ""
+# loginfo "${BOL}${GRE}==> ${BOL}${GRA}Checking if the computer is connected to the internet:${END}"
 
-CONNECTION=$(ping -q -c 2 www.ubuntu.com > /dev/null && echo 0 || echo 1)
-if [ ${CONNECTION} -eq 0 ]; then
-    loginfo "${BOL}${LGR}  --> Connected to the internet! ${END}"
-else
-    loginfo "${BOL}${RED}  --> Not connected to the internet! ${END}"
-    loginfo "${BOL}${RED}  --> Exiting program! ${END}"
-    exit 0
-fi
+# CONNECTION=$(ping -q -c 2 www.ubuntu.com > /dev/null && echo 0 || echo 1)
+# if [ ${CONNECTION} -eq 0 ]; then
+#     loginfo "${BOL}${LGR}  --> Connected to the internet! ${END}"
+# else
+#     loginfo "${BOL}${RED}  --> Not connected to the internet! ${END}"
+#     loginfo "${BOL}${RED}  --> Exiting program! ${END}"
+#     exit 0
+# fi
 
 
 
