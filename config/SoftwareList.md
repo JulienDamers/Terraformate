@@ -7,6 +7,7 @@
 - [x] build-essential
 - [x] curl
 - [x] valgrind
+- [x] oprofile
 - [x] python
 - [x] python3
 - [x] pep8
@@ -68,6 +69,9 @@
 - [x] plasma-applet-redshift-control
 - [x] korganizer
 
+## Security:
+- [x] rkhunter
+- [x] gufw
 
 ## Remove
 - [ ] gedit
