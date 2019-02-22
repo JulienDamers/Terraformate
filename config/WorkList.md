@@ -22,6 +22,7 @@
 - [x] python3-flake8
 - [x] ipython3
 - [x] ipython
+- [x] umbrello
 
 ## Internet
 - [x] thunderbird
