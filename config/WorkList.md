@@ -34,6 +34,7 @@
 
 ## Bureautic
 - [x] libreoffice
+- [x] vym
 
 ## Graphism
 - [x] inkscape
