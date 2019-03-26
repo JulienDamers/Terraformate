@@ -15,7 +15,6 @@
 - [x] python3-pep8
 - [x] python3-pip
 - [x] python3-venv
-- [x] python3-pipenv
 - [x] python3-nose2-cov
 - [x] python-autopep8
 - [x] python-flake8
