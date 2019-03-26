@@ -69,7 +69,7 @@
 ## Remove
 - [ ] gedit
 
-# Screen reader gnome/xfce
+### Screen reader gnome/xfce
 - [ ] gnome-orca
 
 ### telemetry on Ubuntu 18.04
