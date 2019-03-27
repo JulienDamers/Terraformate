@@ -14,7 +14,7 @@ See actual [CHANGELOG](CHANGELOG.md) for the list of implemented features.
 
 Before all installation take a look at the "Disclaimer" in the bottom of this file to be sure that you are conscious of the potentials issues!
 
-The wget and graphical installations requires no other software than the already packed with your system (if not please notify me with the issues).
+The wget and graphical installations requires no other software than the already packed with your system (if not please notify me with an issue).
 
 
 ### Wget installation
