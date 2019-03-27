@@ -5,6 +5,7 @@
 - [x] meld
 - [x] git
 - [x] build-essential
+- [x] clang-format-6.0
 - [x] curl
 - [x] valgrind
 - [x] oprofile
