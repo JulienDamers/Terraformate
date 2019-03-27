@@ -5,6 +5,7 @@
 - [x] meld
 - [x] git
 - [x] build-essential
+- [x] clang-format-6.0
 - [x] curl
 - [x] valgrind
 - [x] oprofile
@@ -68,6 +69,9 @@
 
 ## Remove
 - [ ] gedit
+
+### Screen reader gnome/xfce
+- [ ] gnome-orca
 
 ### telemetry on Ubuntu 18.04
 - [ ] ubuntu-report
