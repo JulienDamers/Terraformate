@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - [ ] Add Archlinux support.
 - [ ] Add Fedora support.
 - [ ] GUI for selecting softwares to install.
+- [ ] Adding a parameter to skip the backport activation in "/etc/apt/sources.list".
 - [x] Adding some parameters for the reboot options and to add an external software list.
 
 
