@@ -12,6 +12,8 @@ See actual [CHANGELOG](CHANGELOG.md) for the list of implemented features.
 
 ## Installation
 
+Before all installation take a look at the "Disclaimer" in the bottom of this file to be sure that you are conscious of the potentials issues!
+
 The wget and graphical installations requires no other software than the already packed with your system (if not please notify me with the issues).
 
 
@@ -95,5 +97,8 @@ This script does the following things:
 ## Disclaimer
 This script isn't compatible with snaps, because I don't use it. Don't expect to see this feature in the upcoming versions!
 
+Be carefull, I usually work on KDE environment so I have added specific softwares or widgets to my software list that may install a lot of unnecessary dependencies in a gnome environment (like XFCE, Mate, Cinnamon, Budgie, Gnome, LXDE,...). Suppress-them if you are concerned.
+
 This script has been tested on:
 * KDE neon 5.12
+* Linux Mint 18.3 Sylvia
