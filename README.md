@@ -76,8 +76,8 @@ Arguments:
 ## Features
 
 The script uses a pre-defined [list of softwares](config/SoftwareList.md) by default. I have put 2 lists of softwares in the config/ folder:
- - The default one [SoftwareList.md](config/SoftwareList.md): it corresponds to usual softwares that I use on my personnal computer.
- - The dev/work one [WorkList.md](config/WorkList.md).
+ - The default one: [SoftwareList.md](config/SoftwareList.md), it corresponds to usual softwares that I use on my personnal computer.
+ - The dev/work one: [WorkList.md](config/WorkList.md).
 
 The best way for you to use this scritp is to fork my repository (on Github), then clone it into your system, create a branch and modify or add a software list for your personnal usage!
 
