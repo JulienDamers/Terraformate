@@ -30,9 +30,8 @@ Launch the script in super-user mode:
 
 ### Graphical installation
 Download and extract the latest version:
-- Click on the zip download in the main page of the repository.
-- Then unzip the archive with your right-click tool and launch a terminal in the folder.
-- Launch the script in super-user mode:
+
+Click on the zip download in the main page of the repository. Then unzip the archive with your right-click tool and launch a terminal in the folder. Launch the script in super-user mode:
 
 ```cd Terraformate && chmod +x terraformate.sh```
 
