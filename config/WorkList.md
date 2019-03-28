@@ -31,6 +31,7 @@
 - [x] firefox
 - [x] firefox-locale-fr
 - [x] wireshark
+- [x] nmap
 
 ## Bureautic
 - [x] libreoffice
