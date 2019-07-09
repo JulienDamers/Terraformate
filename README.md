@@ -60,7 +60,7 @@ Launch the script in super-user mode:
 ## Help
 Usage:
 
-sudo ./terraformate.sh [-h] [-n] [-r] [-l file]
+    sudo ./terraformate.sh [-h] [-n] [-r] [-l file]
 
 Arguments:
 
