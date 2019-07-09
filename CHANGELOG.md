@@ -15,6 +15,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - [ ] GUI for selecting softwares to install.
 - [ ] Adding a parameter to skip the backport activation in "/etc/apt/sources.list.
 - [ ] Add aptitude autoclean to clear the cache at the end.
+- [ ] Add a "-s" option for a safe-upgrade instead of full-upgrade.
+- [ ] Fix the ambiguous part of the reboot at the end of the program (currently it is a mix of 2 options => need to change it into one!)
+- [ ] Turning the block of intructions to check if softwares are present, into a function (there is a redundancy).
+- [x] Adding ubuntu-restricted-addons to softwares lists.
 - [x] Adding some parameters for the reboot options and to add an external software list.
 
 
