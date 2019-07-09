@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - [ ] Add a "-s" option for a safe-upgrade instead of full-upgrade.
 - [ ] Fix the ambiguous part of the reboot at the end of the program (currently it is a mix of 2 options => need to change it into one!)
 - [ ] Turning the block of intructions to check if softwares are present, into a function (there is a redundancy).
+- [ ] Test it under Ubuntu 18.04!
 - [x] Adding ubuntu-restricted-addons to softwares lists.
 - [x] Adding some parameters for the reboot options and to add an external software list.
 
