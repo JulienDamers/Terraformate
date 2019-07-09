@@ -66,6 +66,7 @@
 - [x] screen
 - [x] redshift
 - [x] tree
+- [x] ubuntu-restricted-addons
 
 ### For KDE:
 - [x] plasma-applet-redshift-control
