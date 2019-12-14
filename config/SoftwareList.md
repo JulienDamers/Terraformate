@@ -61,7 +61,6 @@
 - [x] picocom
 - [x] bsdtar
 - [x] byobu
-- [x] gufw
 - [x] zsh
 - [x] screen
 - [x] redshift
