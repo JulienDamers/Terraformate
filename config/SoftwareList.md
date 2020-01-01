@@ -24,6 +24,7 @@
 - [x] chromium-browser
 - [x] firefox
 - [x] firefox-locale-fr
+- [x] net-tools
 
 ## LaTeX
 - [x] texlive
