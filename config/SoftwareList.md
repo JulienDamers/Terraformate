@@ -84,3 +84,6 @@
 
 ### telemetry on Ubuntu 18.04
 - [ ] ubuntu-report
+
+### Amazon Launcher
+- [ ] ubuntu-web-launchers
